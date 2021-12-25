@@ -1,0 +1,29 @@
+name: Get organization members
+on:
+  push:
+    branches:
+      - dev
+jobs:
+  bot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: "Install node"
+        uses: actions/setup-node@v1
+      - name: "🐱‍💻 Install NPM dependencies"
+        run: npm install
+      - name: " Run code"
+        run: node index.js
+        env:
+          ORGS_NAME: ${{ secrets.ORGS_NAME }}
+          PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+      - name: "✍️ Update README.md"
+        run: |
+          git config user.name ${{ secrets.USER_NAME }}
+          git config user.email ${{ secrets.USER_EMAIL }}
+          git add .
+          git commit -m "📈 Update member"
+      - name: "🚀 push"
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.PROFILE_STATS_TOKEN }}
