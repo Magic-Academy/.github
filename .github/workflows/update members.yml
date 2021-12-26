@@ -2,7 +2,7 @@ name: Get organization members
 on:
   push:
     branches:
-      - dev
+      - main
 jobs:
   bot:
     runs-on: ubuntu-latest
