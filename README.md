@@ -12,7 +12,7 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <!-- members -->
 <table><tr>
 </tr>
-<tr> 
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
 <a href="https://github.com/aboutnb">
 <img src="https://avatars.githubusercontent.com/u/82651354?v=4" width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=undefined/>
@@ -163,6 +163,16 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <img src="https://avatars.githubusercontent.com/u/86036666?v=4" width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=undefined/>
 <br />
 <sub style="font-size:14px"><b>yywillcarry</b></sub>
+</a>
+</td>
+
+</tr>
+<tr>
+<td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+<a href="https://github.com/zhongyuanpang">
+<img src="https://avatars.githubusercontent.com/u/75104602?v=4" width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=undefined/>
+<br />
+<sub style="font-size:14px"><b>zhongyuanpang</b></sub>
 </a>
 </td>
 </tr>
