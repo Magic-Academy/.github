@@ -9,7 +9,7 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 
 ##### The following is the list of members of the "Magic Academy" 
 
-<!-- members -->
+<!-- members --> 
 <table><tr>
 </tr>
 <tr>
