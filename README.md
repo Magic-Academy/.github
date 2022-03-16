@@ -3,7 +3,7 @@
 <a href="https://github.com/Magic-Academy/.github/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">
 <img src="https://img.shields.io/badge/Application-blue?style=for-the-badge" width="102px" height="29"></a>
 </a>
-<br>
+<br> 
 The Magic Academy is a GitHub organization with open source spirit as the core.
 ### All members
 
