@@ -1,8 +1,7 @@
 name: Get organization members
 on:
-  push:
-    branches:
-      - main
+  issues:
+    types: [labeled]
 jobs:
   bot:
     runs-on: ubuntu-latest
