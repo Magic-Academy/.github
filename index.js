@@ -3,8 +3,8 @@
  * @version: 
  * @Author: 松岛川树
  * @Date: 2021-12-14 05:10:12
- * @LastEditors: 松岛川树
- * @LastEditTime: 2021-12-19 12:20:14
+ * @LastEditors: songdaochuanshu songdaochuanshu@gmail.com
+ * @LastEditTime: 2022-07-26 10:29:18
  * @FilePath: \.github\index.js
  */
 require('dotenv').config()
@@ -13,7 +13,7 @@ const fs = require('fs');
 const path = require('path');
 
 const getMembers = async() => {
-        let res = await fetch(`https://api.github.com/orgs/Magic-Academy/members`, {
+        let res = await fetch(`https://api.github.com/orgs/Magic-Academy/members?per_page=100`, {
             method: 'GET',
             headers: {
                 'Authorization': `token ${process.env.PROFILE_STATS_TOKEN}`
@@ -55,4 +55,3 @@ const getMembers = async() => {
                 fs.writeFileSync(path.resolve(__dirname, './README.md'), newReadme);
         }
 )()
-
