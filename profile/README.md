@@ -18,19 +18,14 @@ English | [中文](https://github.com/Magic-Academy/.github/blob/main/profile/RE
 
 ![title](/plenio.jpg)
 
+Welcome to the Magic Academy! We are a group of tech enthusiasts who love open-source, and we believe that the values of open-source and contribution are the most important in the tech world. At the Magic Academy, we stand together for technology and our common beliefs, and we are eager to share our experience and knowledge with anyone who is passionate and curious about tech.
 
-🙋‍♀️  "Magic academy" is a technical organization of folk open source enthusiasts. "Magic academy" symbolizes the spirit of open source and contribution. Joining the organization means that you will abide by the terms of the organization's "individual open source enthusiasts".
+Our principle is simple: respect everyone's contribution, encourage sharing and learning, and advocate fair and equal communication. We hope everyone can enjoy the fun of technology in their own way, and contribute to the progress of technology. Whether you are an experienced tech expert or a newbie just starting to learn to code, we welcome your participation.
 
-🌈  In what form does the magic academy exist**Technology is noble, but not every learner loves technology; We restrict our behavior on the premise of organization**
+We adhere to the code of conduct of the open-source community, believing that sharing and learning is our mission. At the Magic Academy, we encourage everyone to respect original works, use appropriate licenses to protect their original creations, and respect and support the efforts of others. We also respect and support every developer who contributes to the community, and we encourage everyone to learn and grow together through sharing.
 
-👩‍💻  The core driving force of Magic Academy:
->Recommended reading:[Open source guide]( https://opensource.guide/ ) 
-1. Abide by the code of open source and embody the spirit of open source & Contribution: for the purpose of sharing, refuse to make illegal profits.
-2. Self protection: use an appropriate license to protect your original works.
-3. Respect others: do not plagiarize, spread or disclose without permission for various reasons and loopholes; Treat with courtesy and respect all developers who contribute to the community; Learn knowledge through the sharing of others, leave footprints and express gratitude.
-4. Love programming and learning: it is important to join the organization and love programming. We welcome friends who love to discuss, share and ask questions, as well as friends who make achievements silently.
-5. Listening: treat and handle problems and suggestions correctly and sincerely, repair bugs of open source projects in time, and communicate with feeders in time. Don't raise the bar, ignore or abuse.
-6. Equal treatment: do not slander, despise or ridicule other developers, take the initiative to put forward suggestions and help, and focus on harmony. As long as others are willing to work hard, you may also be surpassed by those who despised in the past, so please remain modest.
-7. Optimistic and active: your efforts determine your height. Don't give up. When you look back and look down many years later, you will find that you have achieved the level you looked up to in the past. Actively open source the project to help others learn and improve, and you will get corresponding promotion, achievement and sense of achievement.
+If you are passionate about technology, like sharing, discussing, asking questions, and contributing, then the Magic Academy is the ideal place for you. Here, you will find a group of like-minded friends, grow together, learn together, and create your own magic together in the world of technology.
 
-🍿 join us [Please visit here](https://github.com/Magic-Academy/.github/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization),See more detailed introduction [Please visit here](https://github.com/Magic-Academy/.github)
+Joining us is simple - just click [here](https://github.com/Magic-Academy/.github/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization). We look forward to your participation and embarking on a journey of exploration and innovation together in the world of technology.
+
+For more information, check out our [GitHub page]((https://github.com/Magic-Academy/.github)). We're excited to have you on board!
