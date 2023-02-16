@@ -7,7 +7,7 @@
  * @LastEditTime: 2021-12-21 16:05:32
  * @FilePath: \.github\profile\README_zh.md
 -->
-## 嗨! 我们是 Magic Academy 成员 👋
+## 嗨！ 欢迎来到魔法学院！ 👋
 
 [English](https://github.com/Magic-Academy/.github/blob/main/profile/README.md) | 中文
 
