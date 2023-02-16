@@ -7,7 +7,7 @@
  * @LastEditTime: 2021-12-21 16:05:40
  * @FilePath: \.github\profile\README.md
 -->
-## Bonjour!  We are members of the magic academy 👋
+## Bonjour!  Welcome to the Magic Academy! 👋
 
 English | [中文](https://github.com/Magic-Academy/.github/blob/main/profile/README_zh.md)
 
