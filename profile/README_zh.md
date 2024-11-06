@@ -1,20 +1,13 @@
-<!--
- * @Descripttion: 
- * @version: 
- * @Author: 松岛川树
- * @Date: 2021-12-04 20:09:46
- * @LastEditors: 松岛川树
- * @LastEditTime: 2021-12-21 16:05:32
- * @FilePath: \.github\profile\README_zh.md
--->
-## 嗨！ 欢迎来到魔法学院！ 👋
+## 嗨！欢迎来到魔法学院！ 👋
 
 [English](https://github.com/Magic-Academy/.github/blob/main/profile/README.md) | 中文
 
 <a href="https://discord.gg/G2jgHeQfy4"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-<a href="https://github.com/Magic-Academy"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="102px"></a><a href="https://github.com/Magic-Academy/.github/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">
-<img src="https://img.shields.io/badge/Application-blue?style=for-the-badge" width="102px" height="29"></a>
-</a><br>
+<a href="https://github.com/Magic-Academy"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="102px"></a>
+<a href="https://github.com/Magic-Academy/.github/issues/653">
+  <img src="https://img.shields.io/badge/Application-blue?style=for-the-badge" width="102px" height="29"></a>
+</a>
+<br>
 
 ![title](/plenio.jpg)
 
@@ -26,6 +19,6 @@
 
 如果你对技术充满热情，喜欢分享、讨论、提问和贡献，那么魔法学院就是你理想的选择。在这里，你会找到一群志同道合的朋友，一起成长、一起学习，创造属于自己的技术魔法。
 
-加入我们非常简单，只需点击[这里](https://github.com/Magic-Academy/.github/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization)。我们期待你的加入，一起踏上探索和创新的技术之旅。
+加入我们非常简单，只需点击[这里](https://github.com/Magic-Academy/.github/issues/653)。我们期待你的加入，一起踏上探索和创新的技术之旅。
 
 获取更多信息，请访问我们的[GitHub页面](https://github.com/Magic-Academy/.github)。我们很高兴有你的加入！

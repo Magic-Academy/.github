@@ -1,20 +1,14 @@
-<!--
- * @Descripttion: 
- * @version: 
- * @Author: 松岛川树
- * @Date: 2021-12-04 19:51:09
- * @LastEditors: 松岛川树
- * @LastEditTime: 2021-12-21 16:05:40
- * @FilePath: \.github\profile\README.md
--->
 ## Bonjour!  Welcome to the Magic Academy! 👋
 
 English | [中文](https://github.com/Magic-Academy/.github/blob/main/profile/README_zh.md)
 
+
 <a href="https://discord.gg/G2jgHeQfy4"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-<a href="https://github.com/Magic-Academy"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="102px"></a><a href="https://github.com/Magic-Academy/.github/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">
-<img src="https://img.shields.io/badge/Application-blue?style=for-the-badge" width="102px" height="29"></a>
-</a><br>
+<a href="https://github.com/Magic-Academy"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="102px"></a>
+<a href="https://github.com/Magic-Academy/.github/issues/653">
+  <img src="https://img.shields.io/badge/Application-blue?style=for-the-badge" width="102px" height="29"></a>
+</a>
+<br>
 
 ![title](/plenio.jpg)
 
@@ -26,6 +20,6 @@ We adhere to the code of conduct of the open-source community, believing that sh
 
 If you are passionate about technology, like sharing, discussing, asking questions, and contributing, then the Magic Academy is the ideal place for you. Here, you will find a group of like-minded friends, grow together, learn together, and create your own magic together in the world of technology.
 
-Joining us is simple - just click [here](https://github.com/Magic-Academy/.github/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization). We look forward to your participation and embarking on a journey of exploration and innovation together in the world of technology.
+Joining us is simple - just click [here](https://github.com/Magic-Academy/.github/issues/653). We look forward to your participation and embarking on a journey of exploration and innovation together in the world of technology.
 
 For more information, check out our [GitHub page]((https://github.com/Magic-Academy/.github)). We're excited to have you on board!
