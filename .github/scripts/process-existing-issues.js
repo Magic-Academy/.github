@@ -14,7 +14,7 @@ require('dotenv').config(); // Ensure dotenv is configured before any imports
       
       const owner = 'Magic-Academy';
       const repo = '.github'; // Replace with your repository name
-      const label = 'invite me to the organisation';
+      const titleKeyword = 'Please invite me to the GitHub Community Organization';
 
       let page = 1;
       let allIssues = [];
@@ -25,18 +25,25 @@ require('dotenv').config(); // Ensure dotenv is configured before any imports
           const response = await octokit.issues.listForRepo({
             owner,
             repo,
-            labels: [label],
             state: 'open',
             per_page: 100,
             page,
           });
 
           if (!response || !response.data || response.data.length === 0) {
+            console.log(`No more issues found on page ${page}`);
             hasMoreIssues = false;
             continue;
           }
 
-          allIssues = allIssues.concat(response.data);
+          console.log(`Fetched ${response.data.length} issues on page ${page}`);
+
+          // Filter issues by title keyword
+          const filteredIssues = response.data.filter(issue => 
+            issue.title && issue.title.includes(titleKeyword)
+          );
+
+          allIssues = allIssues.concat(filteredIssues);
           page++;
 
           // Check if we have reached the end of the results
@@ -49,7 +56,14 @@ require('dotenv').config(); // Ensure dotenv is configured before any imports
         }
       }
 
-      console.log(`Found ${allIssues.length} issues with the label "${label}"`);
+      console.log(`Found ${allIssues.length} issues with the title containing "${titleKeyword}"`);
+
+      // Debugging: Print out the issue numbers for verification
+      if (allIssues.length > 0) {
+        console.log('Issue numbers:', allIssues.map(issue => issue.number));
+      } else {
+        console.log('No issues found with the specified title keyword.');
+      }
 
       // Process each issue and send an invitation
       for (const issue of allIssues) {
