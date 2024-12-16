@@ -1,4 +1,4 @@
-const { Octokit } = require('@octokit/rest');
+const { default: Octokit } = await import('@octokit/rest');
 require('dotenv').config();
 
 // Initialize the Octokit client
@@ -8,6 +8,8 @@ const octokit = new Octokit({
 
 async function inviteExistingIssues() {
   try {
+    console.log('Starting to process existing issues...');
+    
     const owner = 'Magic-Academy';
     const repo = 'your-repo-name'; // Replace with your repository name
     const label = 'invite me to the organisation';
@@ -27,6 +29,8 @@ async function inviteExistingIssues() {
       allIssues = allIssues.concat(response.data);
       page++;
     } while (response.data.length === 100);
+
+    console.log(`Found ${allIssues.length} issues with the label "${label}"`);
 
     // Process each issue and send an invitation
     for (const issue of allIssues) {

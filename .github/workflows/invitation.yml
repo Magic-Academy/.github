@@ -7,6 +7,8 @@ on:
     branches: [main]  # Only trigger on pushes to the main branch
     paths:
       - '.github/workflows/invitation.yml'  # Trigger only on changes to this file
+  schedule:
+    - cron: '0 0 * * 0'  # Run every Sunday at 00:00 UTC
 
 jobs:
   automate_invite:
@@ -15,6 +17,14 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install @octokit/rest dotenv
 
       - name: Invite on label or specific push
         id: invite
@@ -36,3 +46,25 @@ jobs:
       - name: Check invitation status
         if: steps.invite.outcome == 'success'
         run: echo "Invitation successfully sent!"
+
+  check_existing_issues:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'schedule'
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install @octokit/rest dotenv
+
+      - name: Process existing issues
+        run: |
+          echo "Running process-existing-issues.js..."
+          node ./.github/scripts/process-existing-issues.mjs  # Use .mjs if converting to ES module
+        env:
+          PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
