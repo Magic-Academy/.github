@@ -7,32 +7,21 @@ on:
     branches: [main]  # 只在推送到 main 分支时触发
     paths:
       - '.github/workflows/invitation.yml'  # 只在修改 invitation.yml 时触发
+  schedule:
+    - cron: '0 0 * * 0'  # 每周日 UTC 时间 00:00 运行
 
 jobs:
   automate_invite:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Determine if invite should be sent on push
-        id: check_push
-        run: |
-          echo "::set-output name=should_invite::false"
-          if [ "${{ github.event_name }}" == "push" ]; then
-            CHANGED_FILES=$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }})
-            for FILE in .github/workflows/invitation.yml README.md; do
-              if [[ "$CHANGED_FILES" == *"$FILE"* ]]; then
-                echo "::set-output name=should_invite::true"
-                break
-              fi
-            done
-          fi
-
       - name: Invite on label or specific push
-        if: ${{ github.event_name == 'issues' || (github.event_name == 'push' && steps.check_push.outputs.should_invite == 'true') }}
         id: invite
         uses: vj-abigo/invite-on-label@v1.2
+        if: ${{ github.event_name == 'issues' || (github.event_name == 'push' && contains(github.event.push.changes.*.filename, '.github/workflows/invitation.yml')) }}
         with:
           organization: Magic-Academy
           label: invite me to the organisation
@@ -49,3 +38,15 @@ jobs:
       - name: Check invitation status
         if: steps.invite.outcome == 'success'
         run: echo "Invitation successfully sent!"
+
+  check_existing_issues:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'schedule'
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Process existing issues
+        run: node ./.github/scripts/process-existing-issues.js
+        env:
+          PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
