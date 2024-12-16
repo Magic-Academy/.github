@@ -65,6 +65,6 @@ jobs:
       - name: Process existing issues
         run: |
           echo "Running process-existing-issues.js..."
-          node ./.github/scripts/process-existing-issues.mjs  # Use .mjs if converting to ES module
+          node ./.github/scripts/process-existing-issues.js
         env:
           PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
