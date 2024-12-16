@@ -1,0 +1,29 @@
+name: Process Existing Issues
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Run every Sunday at 00:00 UTC
+  workflow_dispatch:  # Allows manual triggering of the workflow
+
+jobs:
+  process_issues:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install @octokit/rest dotenv
+
+      - name: Process existing issues
+        run: |
+          echo "Running process-existing-issues.js..."
+          node ./.github/scripts/process-existing-issues.js
+        env:
+          PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}

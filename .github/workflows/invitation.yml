@@ -4,11 +4,9 @@ on:
   issues:
     types: [labeled]
   push:
-    branches: [main]  # 只在推送到 main 分支时触发
+    branches: [main]  # Only trigger on pushes to the main branch
     paths:
-      - '.github/workflows/invitation.yml'  # 只在修改 invitation.yml 时触发
-  schedule:
-    - cron: '0 0 * * 0'  # 每周日 UTC 时间 00:00 运行
+      - '.github/workflows/invitation.yml'  # Trigger only on changes to this file
 
 jobs:
   automate_invite:
@@ -38,15 +36,3 @@ jobs:
       - name: Check invitation status
         if: steps.invite.outcome == 'success'
         run: echo "Invitation successfully sent!"
-
-  check_existing_issues:
-    runs-on: ubuntu-latest
-    if: github.event_name == 'schedule'
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Process existing issues
-        run: node ./.github/scripts/process-existing-issues.js
-        env:
-          PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
