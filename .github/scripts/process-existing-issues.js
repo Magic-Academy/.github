@@ -16,54 +16,75 @@ require('dotenv').config(); // Ensure dotenv is configured before any imports
       const repo = '.github'; // Replace with your repository name
       const label = 'invite me to the organisation';
 
-      // Fetch all issues with the specified label
       let page = 1;
       let allIssues = [];
-      do {
-        const response = await octokit.issues.listForRepo({
-          owner,
-          repo,
-          labels: [label],
-          state: 'open',
-          per_page: 100,
-          page,
-        });
-        allIssues = allIssues.concat(response.data);
-        page++;
-      } while (response.data.length === 100);
+      let hasMoreIssues = true;
+
+      while (hasMoreIssues) {
+        try {
+          const response = await octokit.issues.listForRepo({
+            owner,
+            repo,
+            labels: [label],
+            state: 'open',
+            per_page: 100,
+            page,
+          });
+
+          if (!response || !response.data || response.data.length === 0) {
+            hasMoreIssues = false;
+            continue;
+          }
+
+          allIssues = allIssues.concat(response.data);
+          page++;
+
+          // Check if we have reached the end of the results
+          if (response.data.length < 100) {
+            hasMoreIssues = false;
+          }
+        } catch (error) {
+          console.error(`Error fetching issues on page ${page}:`, error);
+          hasMoreIssues = false; // Stop processing on error
+        }
+      }
 
       console.log(`Found ${allIssues.length} issues with the label "${label}"`);
 
       // Process each issue and send an invitation
       for (const issue of allIssues) {
         console.log(`Processing issue #${issue.number}`);
-        await octokit.request('POST /orgs/{org}/invitations', {
-          org: owner,
-          invitee_id: issue.user.id,
-        });
+        try {
+          await octokit.request('POST /orgs/{org}/invitations', {
+            org: owner,
+            invitee_id: issue.user.id,
+          });
 
-        // Send a comment to notify the user and apologize for the delayed invitation
-        await octokit.issues.createComment({
-          owner,
-          repo,
-          issue_number: issue.number,
-          body: `
-            Dear ${issue.user.login},
+          // Send a comment to notify the user and apologize for the delayed invitation
+          await octokit.issues.createComment({
+            owner,
+            repo,
+            issue_number: issue.number,
+            body: `
+              Dear ${issue.user.login},
 
-            Thank you very much for your interest in joining the Magic-Academy community! We sincerely apologize for the delay in processing your request due to recent system updates.
+              Thank you very much for your interest in joining the Magic-Academy community! We sincerely apologize for the delay in processing your request due to recent system updates.
 
-            Your invitation to join the GitHub Organization has now been sent. Welcome to the community 🎉
+              Your invitation to join the GitHub Organization has now been sent. Welcome to the community 🎉
 
-            Please remember to accept the invitation and make it public so it appears on your GitHub profile for everyone else to see. You can do this by finding your name in the GitHub organization list and changing the dropdown to public:
-            https://github.com/orgs/${owner}/people
+              Please remember to accept the invitation and make it public so it appears on your GitHub profile for everyone else to see. You can do this by finding your name in the GitHub organization list and changing the dropdown to public:
+              https://github.com/orgs/${owner}/people
 
-            Once again, we apologize for any inconvenience caused and appreciate your patience. If you have any questions or need further assistance, feel free to reach out.
+              Once again, we apologize for any inconvenience caused and appreciate your patience. If you have any questions or need further assistance, feel free to reach out.
 
-            Best regards,
-            The Magic-Academy Team
-          `,
-        });
-        console.log(`Invitation sent for issue #${issue.number}`);
+              Best regards,
+              The Magic-Academy Team
+            `,
+          });
+          console.log(`Invitation sent for issue #${issue.number}`);
+        } catch (error) {
+          console.error(`Error processing issue #${issue.number}:`, error);
+        }
       }
 
       console.log('All existing issues processed.');
