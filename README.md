@@ -2292,6 +2292,13 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 </tr>
 <tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
+<a href="https://github.com/LKSergio">
+<img src="https://avatars.githubusercontent.com/u/140926550?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="LKSergio"/>
+<br />
+<sub style="font-size:14px"><b>LKSergio</b></sub>
+</a>
+</td>
+<td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/lohitkolluri">
 <img src="https://avatars.githubusercontent.com/u/35792322?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="lohitkolluri"/>
 <br />
@@ -2312,6 +2319,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>LSUDOKO</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/LucasWongC">
 <img src="https://avatars.githubusercontent.com/u/101302451?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="LucasWongC"/>
@@ -2319,8 +2328,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>LucasWongC</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/Lucky9596">
 <img src="https://avatars.githubusercontent.com/u/172366713?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Lucky9596"/>
@@ -2342,6 +2349,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>MagnateApe</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/malaidev">
 <img src="https://avatars.githubusercontent.com/u/114686165?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="malaidev"/>
@@ -2349,8 +2358,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>malaidev</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/malone0323">
 <img src="https://avatars.githubusercontent.com/u/33023035?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="malone0323"/>
@@ -2372,6 +2379,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>manulthanura</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/marc316">
 <img src="https://avatars.githubusercontent.com/u/136203565?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="marc316"/>
@@ -2379,8 +2388,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>marc316</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/marcinwojcik-dev">
 <img src="https://avatars.githubusercontent.com/u/10526937?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="marcinwojcik-dev"/>
@@ -2402,6 +2409,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>mateoguerra0315</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/MAVRICK-1">
 <img src="https://avatars.githubusercontent.com/u/146999057?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="MAVRICK-1"/>
@@ -2409,8 +2418,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>MAVRICK-1</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/max-ray001">
 <img src="https://avatars.githubusercontent.com/u/142807911?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="max-ray001"/>
@@ -2432,6 +2439,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>mdheisser</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/meanking">
 <img src="https://avatars.githubusercontent.com/u/49337840?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="meanking"/>
@@ -2439,8 +2448,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>meanking</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/MeetDOD">
 <img src="https://avatars.githubusercontent.com/u/120380073?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="MeetDOD"/>
@@ -2462,6 +2469,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>melissapalhano</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/MetaFomos">
 <img src="https://avatars.githubusercontent.com/u/80467882?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="MetaFomos"/>
@@ -2469,8 +2478,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>MetaFomos</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/MetaMars0114">
 <img src="https://avatars.githubusercontent.com/u/108741548?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="MetaMars0114"/>
@@ -2492,6 +2499,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>michig4b</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/micwonder">
 <img src="https://avatars.githubusercontent.com/u/130264564?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="micwonder"/>
@@ -2499,8 +2508,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>micwonder</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/MIHIR2006">
 <img src="https://avatars.githubusercontent.com/u/104778556?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="MIHIR2006"/>
@@ -2522,6 +2529,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>miroshar-success</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/mkh-dev">
 <img src="https://avatars.githubusercontent.com/u/112271600?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="mkh-dev"/>
@@ -2529,8 +2538,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>mkh-dev</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/Mobasherah12">
 <img src="https://avatars.githubusercontent.com/u/52857890?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Mobasherah12"/>
@@ -2552,6 +2559,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>moonlight987</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/mrepol742">
 <img src="https://avatars.githubusercontent.com/u/62317165?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="mrepol742"/>
@@ -2559,8 +2568,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>mrepol742</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/Mronyx">
 <img src="https://avatars.githubusercontent.com/u/132503531?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Mronyx"/>
@@ -2582,6 +2589,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>Mubshr07</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/mujeebshk">
 <img src="https://avatars.githubusercontent.com/u/91489970?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="mujeebshk"/>
@@ -2589,8 +2598,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>mujeebshk</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/Mukku27">
 <img src="https://avatars.githubusercontent.com/u/141306812?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Mukku27"/>
@@ -2612,6 +2619,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>multikitty</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/multiverseweb">
 <img src="https://avatars.githubusercontent.com/u/131871888?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="multiverseweb"/>
@@ -2619,8 +2628,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>multiverseweb</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/mythofmidas">
 <img src="https://avatars.githubusercontent.com/u/176256152?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="mythofmidas"/>
@@ -2642,6 +2649,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>nagaumamahesh</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/naikmubashir">
 <img src="https://avatars.githubusercontent.com/u/124430100?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="naikmubashir"/>
@@ -2649,8 +2658,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>naikmubashir</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/naman9271">
 <img src="https://avatars.githubusercontent.com/u/179296103?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="naman9271"/>
@@ -2672,6 +2679,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>naruhitokaide</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/NathanPetersons">
 <img src="https://avatars.githubusercontent.com/u/184030535?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="NathanPetersons"/>
@@ -2679,8 +2688,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>NathanPetersons</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/NeonNexus0408">
 <img src="https://avatars.githubusercontent.com/u/188174614?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="NeonNexus0408"/>
@@ -2702,6 +2709,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>net0well</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/Nicholashuber">
 <img src="https://avatars.githubusercontent.com/u/1585348?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Nicholashuber"/>
@@ -2709,8 +2718,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>Nicholashuber</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/Nima-sltn">
 <img src="https://avatars.githubusercontent.com/u/110777961?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Nima-sltn"/>
@@ -2732,6 +2739,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>ninjadev106</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/NishantRana07">
 <img src="https://avatars.githubusercontent.com/u/126577697?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="NishantRana07"/>
@@ -2739,8 +2748,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>NishantRana07</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/Nkwenti-Severian-Ndongtsop">
 <img src="https://avatars.githubusercontent.com/u/180976800?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Nkwenti-Severian-Ndongtsop"/>
@@ -2762,6 +2769,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>noproblem23</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/nova-tech-hub">
 <img src="https://avatars.githubusercontent.com/u/119789975?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="nova-tech-hub"/>
@@ -2769,8 +2778,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>nova-tech-hub</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/NS007-dev">
 <img src="https://avatars.githubusercontent.com/u/70807500?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="NS007-dev"/>
@@ -2792,6 +2799,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>Ojas-Arora</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/oksaumya">
 <img src="https://avatars.githubusercontent.com/u/173081204?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="oksaumya"/>
@@ -2799,8 +2808,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>oksaumya</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/omega000133">
 <img src="https://avatars.githubusercontent.com/u/142481489?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="omega000133"/>
@@ -2822,6 +2829,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>Onesco</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/outlaws169">
 <img src="https://avatars.githubusercontent.com/u/121851807?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="outlaws169"/>
@@ -2829,8 +2838,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>outlaws169</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/owaisjunedi">
 <img src="https://avatars.githubusercontent.com/u/166465555?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="owaisjunedi"/>
@@ -2852,6 +2859,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>PaladinKnightMaster</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/paragon279">
 <img src="https://avatars.githubusercontent.com/u/144038276?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="paragon279"/>
@@ -2859,8 +2868,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>paragon279</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/PassionFriend">
 <img src="https://avatars.githubusercontent.com/u/100419123?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="PassionFriend"/>
@@ -2882,6 +2889,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>Pawan-Bhatt</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/pdsuwwz">
 <img src="https://avatars.githubusercontent.com/u/19891724?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="pdsuwwz"/>
@@ -2889,8 +2898,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>pdsuwwz</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/pentium0628">
 <img src="https://avatars.githubusercontent.com/u/128323447?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="pentium0628"/>
@@ -2912,6 +2919,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>Phoenix-Genius</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/Phoeon">
 <img src="https://avatars.githubusercontent.com/u/9887640?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Phoeon"/>
@@ -2919,8 +2928,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>Phoeon</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/pinkroseflower">
 <img src="https://avatars.githubusercontent.com/u/155995382?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="pinkroseflower"/>
@@ -2942,6 +2949,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>popstar7</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/pranjal030404">
 <img src="https://avatars.githubusercontent.com/u/182807087?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="pranjal030404"/>
@@ -2949,8 +2958,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>pranjal030404</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/prankush-tech">
 <img src="https://avatars.githubusercontent.com/u/76916192?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="prankush-tech"/>
@@ -2972,6 +2979,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>Preetiraj3697</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/Premkolte">
 <img src="https://avatars.githubusercontent.com/u/100456448?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Premkolte"/>
@@ -2979,8 +2988,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>Premkolte</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/Priyanshu88">
 <img src="https://avatars.githubusercontent.com/u/86107841?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Priyanshu88"/>
@@ -3002,6 +3009,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>prodev1119</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/ProFullStackDev">
 <img src="https://avatars.githubusercontent.com/u/116855918?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="ProFullStackDev"/>
@@ -3009,8 +3018,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>ProFullStackDev</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/PulkitMalhotra161001">
 <img src="https://avatars.githubusercontent.com/u/63710339?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="PulkitMalhotra161001"/>
@@ -3032,6 +3039,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>Qiu-IT</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/qsdcfd">
 <img src="https://avatars.githubusercontent.com/u/86671456?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="qsdcfd"/>
@@ -3039,8 +3048,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>qsdcfd</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/Rabbit1026HG">
 <img src="https://avatars.githubusercontent.com/u/33966237?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Rabbit1026HG"/>
@@ -3062,6 +3069,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>RadhikaMalpani1702</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/rahmantamim11">
 <img src="https://avatars.githubusercontent.com/u/130222369?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="rahmantamim11"/>
@@ -3069,8 +3078,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>rahmantamim11</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/rainbowdev1359">
 <img src="https://avatars.githubusercontent.com/u/169554480?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="rainbowdev1359"/>
@@ -3092,6 +3099,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>Rajkdea123</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/ramana2074">
 <img src="https://avatars.githubusercontent.com/u/170406999?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="ramana2074"/>
@@ -3099,8 +3108,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>ramana2074</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/RAMIREDDYGAYATHRI02">
 <img src="https://avatars.githubusercontent.com/u/87663318?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="RAMIREDDYGAYATHRI02"/>
@@ -3122,6 +3129,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>raunak0400</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/raycheng618">
 <img src="https://avatars.githubusercontent.com/u/131324804?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="raycheng618"/>
@@ -3129,8 +3138,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>raycheng618</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/RealDiligent">
 <img src="https://avatars.githubusercontent.com/u/164088955?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="RealDiligent"/>
@@ -3152,6 +3159,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>Richajaishwal0</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/richforest0506">
 <img src="https://avatars.githubusercontent.com/u/84072889?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="richforest0506"/>
@@ -3159,8 +3168,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>richforest0506</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/rjcsabkls">
 <img src="https://avatars.githubusercontent.com/u/80993181?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="rjcsabkls"/>
@@ -3182,6 +3189,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>roannav</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/RogerChan555">
 <img src="https://avatars.githubusercontent.com/u/28197200?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="RogerChan555"/>
@@ -3189,8 +3198,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>RogerChan555</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/Rohith2201">
 <img src="https://avatars.githubusercontent.com/u/94969985?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Rohith2201"/>
@@ -3212,6 +3219,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>roseewood</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/Royal0106">
 <img src="https://avatars.githubusercontent.com/u/96753376?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Royal0106"/>
@@ -3219,8 +3228,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>Royal0106</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/rubiin">
 <img src="https://avatars.githubusercontent.com/u/8222059?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="rubiin"/>
@@ -3242,6 +3249,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>rust-trust</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/rustynail102">
 <img src="https://avatars.githubusercontent.com/u/144482722?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="rustynail102"/>
@@ -3249,8 +3258,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>rustynail102</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/rustyneuron01">
 <img src="https://avatars.githubusercontent.com/u/89193350?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="rustyneuron01"/>
@@ -3272,6 +3279,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>s-spoon</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/Sabeer-Junaid">
 <img src="https://avatars.githubusercontent.com/u/59570904?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Sabeer-Junaid"/>
@@ -3279,8 +3288,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>Sabeer-Junaid</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/SacredDevKing">
 <img src="https://avatars.githubusercontent.com/u/126603430?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="SacredDevKing"/>
@@ -3302,6 +3309,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>SaifRasool92</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/SakshamDutt">
 <img src="https://avatars.githubusercontent.com/u/72153648?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="SakshamDutt"/>
@@ -3309,8 +3318,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>SakshamDutt</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/Sameer01-01">
 <img src="https://avatars.githubusercontent.com/u/142383265?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Sameer01-01"/>
@@ -3332,6 +3339,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>sanjay-kv</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/sarathk73">
 <img src="https://avatars.githubusercontent.com/u/142706927?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="sarathk73"/>
@@ -3339,8 +3348,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>sarathk73</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/sau-mili">
 <img src="https://avatars.githubusercontent.com/u/146661411?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="sau-mili"/>
@@ -3362,6 +3369,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>seaidear</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/seeeeeyou">
 <img src="https://avatars.githubusercontent.com/u/91608896?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="seeeeeyou"/>
@@ -3369,8 +3378,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>seeeeeyou</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/serendipity-seeker">
 <img src="https://avatars.githubusercontent.com/u/165303709?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="serendipity-seeker"/>
@@ -3392,6 +3399,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>SharmaVansh1910</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/sharmis-tp">
 <img src="https://avatars.githubusercontent.com/u/35274059?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="sharmis-tp"/>
@@ -3399,8 +3408,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>sharmis-tp</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/shinevue">
 <img src="https://avatars.githubusercontent.com/u/135434950?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="shinevue"/>
@@ -3422,6 +3429,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>shiny0110</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/shiny0128">
 <img src="https://avatars.githubusercontent.com/u/154394458?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="shiny0128"/>
@@ -3429,8 +3438,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>shiny0128</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/shinyapes">
 <img src="https://avatars.githubusercontent.com/u/106413931?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="shinyapes"/>
@@ -3452,6 +3459,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>shivhere007</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/shreya-paul-17">
 <img src="https://avatars.githubusercontent.com/u/135226069?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="shreya-paul-17"/>
@@ -3459,8 +3468,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>shreya-paul-17</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/shreyash3087">
 <img src="https://avatars.githubusercontent.com/u/72603662?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="shreyash3087"/>
@@ -3482,6 +3489,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>siddhanth4</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/SIM0710">
 <img src="https://avatars.githubusercontent.com/u/145202569?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="SIM0710"/>
@@ -3489,8 +3498,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>SIM0710</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/sincerely91">
 <img src="https://avatars.githubusercontent.com/u/96399272?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="sincerely91"/>
@@ -3512,6 +3519,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>SirBang</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/sky-theme">
 <img src="https://avatars.githubusercontent.com/u/163787195?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="sky-theme"/>
@@ -3519,8 +3528,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>sky-theme</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/SkyCaptainess">
 <img src="https://avatars.githubusercontent.com/u/15239400?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="SkyCaptainess"/>
@@ -3542,6 +3549,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>smart92dev</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/smartcoder0926">
 <img src="https://avatars.githubusercontent.com/u/72979420?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="smartcoder0926"/>
@@ -3549,8 +3558,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>smartcoder0926</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/smartdev5050">
 <img src="https://avatars.githubusercontent.com/u/161879015?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="smartdev5050"/>
@@ -3572,6 +3579,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>smartgeek1003</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/smartiguy07">
 <img src="https://avatars.githubusercontent.com/u/131676148?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="smartiguy07"/>
@@ -3579,8 +3588,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>smartiguy07</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/smarttopdev">
 <img src="https://avatars.githubusercontent.com/u/110256495?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="smarttopdev"/>
@@ -3602,6 +3609,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>SolLoveChain</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/sondosaabed">
 <img src="https://avatars.githubusercontent.com/u/65151701?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="sondosaabed"/>
@@ -3609,8 +3618,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>sondosaabed</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/songdaocai">
 <img src="https://avatars.githubusercontent.com/u/96363289?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="songdaocai"/>
@@ -3632,6 +3639,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>songdaoyuan</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/SoumyaEXE">
 <img src="https://avatars.githubusercontent.com/u/95275364?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="SoumyaEXE"/>
@@ -3639,8 +3648,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>SoumyaEXE</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/sree-hari-s">
 <img src="https://avatars.githubusercontent.com/u/48482060?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="sree-hari-s"/>
@@ -3662,6 +3669,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>starcluster18</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/stinkyyyyy">
 <img src="https://avatars.githubusercontent.com/u/138591784?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="stinkyyyyy"/>
@@ -3669,8 +3678,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>stinkyyyyy</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/storm59222">
 <img src="https://avatars.githubusercontent.com/u/154458018?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="storm59222"/>
@@ -3692,6 +3699,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>Stroller15</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/suatap-alt">
 <img src="https://avatars.githubusercontent.com/u/104417602?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="suatap-alt"/>
@@ -3699,8 +3708,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>suatap-alt</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/sudoyasir">
 <img src="https://avatars.githubusercontent.com/u/94890956?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="sudoyasir"/>
@@ -3722,6 +3729,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>suhanipaliwal</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/Sundaram-Agnihotri">
 <img src="https://avatars.githubusercontent.com/u/110082729?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Sundaram-Agnihotri"/>
@@ -3729,8 +3738,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>Sundaram-Agnihotri</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/sunlight0102">
 <img src="https://avatars.githubusercontent.com/u/142780024?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="sunlight0102"/>
@@ -3752,6 +3759,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>super0618</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/superdev0826">
 <img src="https://avatars.githubusercontent.com/u/127054459?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="superdev0826"/>
@@ -3759,8 +3768,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>superdev0826</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/superman0052">
 <img src="https://avatars.githubusercontent.com/u/175904603?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="superman0052"/>
@@ -3782,6 +3789,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>susu-sama</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/Swarupa567">
 <img src="https://avatars.githubusercontent.com/u/22514881?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Swarupa567"/>
@@ -3789,8 +3798,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>Swarupa567</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/syed-ghufran-hassan">
 <img src="https://avatars.githubusercontent.com/u/20126545?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="syed-ghufran-hassan"/>
@@ -3812,6 +3819,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>T-rustdev</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/Takhi77">
 <img src="https://avatars.githubusercontent.com/u/25841237?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Takhi77"/>
@@ -3819,8 +3828,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>Takhi77</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/TayssirGh">
 <img src="https://avatars.githubusercontent.com/u/126917969?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="TayssirGh"/>
@@ -3842,6 +3849,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>Tcrypto126</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/TechBond7">
 <img src="https://avatars.githubusercontent.com/u/144638320?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="TechBond7"/>
@@ -3849,8 +3858,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>TechBond7</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/techpond31">
 <img src="https://avatars.githubusercontent.com/u/86774429?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="techpond31"/>
@@ -3872,6 +3879,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>Tejashri-Taral</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/tentwinkle">
 <img src="https://avatars.githubusercontent.com/u/173590892?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="tentwinkle"/>
@@ -3879,8 +3888,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>tentwinkle</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/texora">
 <img src="https://avatars.githubusercontent.com/u/12730848?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="texora"/>
@@ -3902,6 +3909,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>The-Young-Programer</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/The-Young-Programmer">
 <img src="https://avatars.githubusercontent.com/u/79866006?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="The-Young-Programmer"/>
@@ -3909,8 +3918,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>The-Young-Programmer</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/the1Riddle">
 <img src="https://avatars.githubusercontent.com/u/125451537?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="the1Riddle"/>
@@ -3932,6 +3939,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>TheCleverIdiott</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/thomas37-star">
 <img src="https://avatars.githubusercontent.com/u/175961427?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="thomas37-star"/>
@@ -3939,8 +3948,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>thomas37-star</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/ThomRib">
 <img src="https://avatars.githubusercontent.com/u/74390441?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="ThomRib"/>
@@ -3962,6 +3969,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>thuongtruong109</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/tobistudio">
 <img src="https://avatars.githubusercontent.com/u/124074472?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="tobistudio"/>
@@ -3969,8 +3978,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>tobistudio</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/top2429">
 <img src="https://avatars.githubusercontent.com/u/170189222?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="top2429"/>
@@ -3992,6 +3999,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>TopManager916</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/tos41">
 <img src="https://avatars.githubusercontent.com/u/143588704?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="tos41"/>
@@ -3999,8 +4008,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>tos41</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/tothetop430">
 <img src="https://avatars.githubusercontent.com/u/153297575?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="tothetop430"/>
@@ -4022,6 +4029,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>trexdevelop</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/Tru3Bliss">
 <img src="https://avatars.githubusercontent.com/u/93848966?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Tru3Bliss"/>
@@ -4029,8 +4038,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>Tru3Bliss</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/trudever">
 <img src="https://avatars.githubusercontent.com/u/108230861?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="trudever"/>
@@ -4052,6 +4059,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>tsrc02140702</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/tuanzisama">
 <img src="https://avatars.githubusercontent.com/u/33369729?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="tuanzisama"/>
@@ -4059,8 +4068,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>tuanzisama</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/Tvenus">
 <img src="https://avatars.githubusercontent.com/u/156801994?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Tvenus"/>
@@ -4082,6 +4089,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>Tyrese-FullStackGenius</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/ucsengun">
 <img src="https://avatars.githubusercontent.com/u/123711891?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="ucsengun"/>
@@ -4089,8 +4098,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>ucsengun</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/Ukhang">
 <img src="https://avatars.githubusercontent.com/u/94834060?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Ukhang"/>
@@ -4112,6 +4119,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>ultrocharge</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/unitop010">
 <img src="https://avatars.githubusercontent.com/u/151155288?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="unitop010"/>
@@ -4119,8 +4128,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>unitop010</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/uniwaydev">
 <img src="https://avatars.githubusercontent.com/u/124911548?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="uniwaydev"/>
@@ -4142,6 +4149,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>v08nike</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/Vaibhav-kesarwani">
 <img src="https://avatars.githubusercontent.com/u/116189379?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Vaibhav-kesarwani"/>
@@ -4149,8 +4158,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>Vaibhav-kesarwani</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/valloon427428">
 <img src="https://avatars.githubusercontent.com/u/10297054?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="valloon427428"/>
@@ -4172,6 +4179,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>Venusdev2113</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/venuswhispers">
 <img src="https://avatars.githubusercontent.com/u/153607879?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="venuswhispers"/>
@@ -4179,8 +4188,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>venuswhispers</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/VeoScript">
 <img src="https://avatars.githubusercontent.com/u/26340308?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="VeoScript"/>
@@ -4202,6 +4209,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>vergil1226</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/VictorKensing">
 <img src="https://avatars.githubusercontent.com/u/21102927?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="VictorKensing"/>
@@ -4209,8 +4218,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>VictorKensing</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/VictorMoni">
 <img src="https://avatars.githubusercontent.com/u/123900844?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="VictorMoni"/>
@@ -4232,6 +4239,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>vishalkrishna8</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/Vishwajeet-Londhe">
 <img src="https://avatars.githubusercontent.com/u/126247101?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Vishwajeet-Londhe"/>
@@ -4239,8 +4248,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>Vishwajeet-Londhe</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/VisionarySuperstar">
 <img src="https://avatars.githubusercontent.com/u/9166113?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="VisionarySuperstar"/>
@@ -4262,6 +4269,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>vivekvardhan2810</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/voldin912">
 <img src="https://avatars.githubusercontent.com/u/126153040?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="voldin912"/>
@@ -4269,8 +4278,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>voldin912</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/wakoliVotes">
 <img src="https://avatars.githubusercontent.com/u/77758884?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="wakoliVotes"/>
@@ -4292,6 +4299,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>wannacfuture</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/waterfire-source">
 <img src="https://avatars.githubusercontent.com/u/16292334?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="waterfire-source"/>
@@ -4299,8 +4308,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>waterfire-source</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/web-phantom-dev">
 <img src="https://avatars.githubusercontent.com/u/96414656?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="web-phantom-dev"/>
@@ -4322,6 +4329,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>Whatkhushi</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/whitehorse21">
 <img src="https://avatars.githubusercontent.com/u/10959922?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="whitehorse21"/>
@@ -4329,8 +4338,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>whitehorse21</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/win-20xx">
 <img src="https://avatars.githubusercontent.com/u/222471560?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="win-20xx"/>
@@ -4352,6 +4359,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>wizard0918</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/wpb119">
 <img src="https://avatars.githubusercontent.com/u/102642303?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="wpb119"/>
@@ -4359,8 +4368,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>wpb119</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/wraithkingdev555">
 <img src="https://avatars.githubusercontent.com/u/56843906?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="wraithkingdev555"/>
@@ -4382,6 +4389,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>wwmogu</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/xfactor-toml">
 <img src="https://avatars.githubusercontent.com/u/154992305?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="xfactor-toml"/>
@@ -4389,8 +4398,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>xfactor-toml</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/Xmorinori">
 <img src="https://avatars.githubusercontent.com/u/218474623?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Xmorinori"/>
@@ -4412,6 +4419,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>Xunibird</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/xxdollars">
 <img src="https://avatars.githubusercontent.com/u/68246523?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="xxdollars"/>
@@ -4419,8 +4428,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>xxdollars</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/xxx-tx">
 <img src="https://avatars.githubusercontent.com/u/184362390?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="xxx-tx"/>
@@ -4442,6 +4449,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>yashwanths814</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/yesmore">
 <img src="https://avatars.githubusercontent.com/u/89140804?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="yesmore"/>
@@ -4449,8 +4458,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>yesmore</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/yinyang1017">
 <img src="https://avatars.githubusercontent.com/u/135947092?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="yinyang1017"/>
@@ -4472,6 +4479,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>Youzi-io</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/yuzh37">
 <img src="https://avatars.githubusercontent.com/u/103303397?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="yuzh37"/>
@@ -4479,8 +4488,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>yuzh37</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/yywillcarry">
 <img src="https://avatars.githubusercontent.com/u/86036666?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="yywillcarry"/>
@@ -4502,6 +4509,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>ZeeshanMukhtar1</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/zehan12">
 <img src="https://avatars.githubusercontent.com/u/73664886?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="zehan12"/>
@@ -4509,8 +4518,6 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>zehan12</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/Zemerik">
 <img src="https://avatars.githubusercontent.com/u/133865660?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Zemerik"/>
@@ -4532,6 +4539,8 @@ The Magic Academy is a GitHub organization with open source spirit as the core.
 <sub style="font-size:14px"><b>zhensherlock</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
 <a href="https://github.com/zhongyuanpang">
 <img src="https://avatars.githubusercontent.com/u/75104602?v=4" width="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="zhongyuanpang"/>
